@@ -1,2 +1,15 @@
+# ignore all
+*
+
+# unignore all directories
+!*/
+
+# unignore all cpp files
+!*.cpp
+!*.h
+
+# ignore .dSYM files on MacOS
+*.dSYM
+
+# ignore vscode config file
 *.vscode
-*.exe
