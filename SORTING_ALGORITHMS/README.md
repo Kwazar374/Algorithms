@@ -9,4 +9,4 @@ Author: Bartosz Satola (github.com/kwazar374)
 
 | Algorithm | Status | Language(s) |
 | --- | --- | --- |
-| **Bubble Sort** | *Work in Progress* | C++ |
+| **Bubble Sort** | *Done* | C++ |
