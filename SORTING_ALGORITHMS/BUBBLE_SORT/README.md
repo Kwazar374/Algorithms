@@ -113,4 +113,4 @@ Where `b2` is value of `b` after swapping and `a3` is value of `a` after swappin
 and `a1` and `b1` are values of `a` and `b` before swapping
 
 ## Implementations
-- **xor_swap.cpp** - *C++ implementation for swapping two integers using XOR operation*
+- **bubble_sort.cpp** - *C++ implementation for swapping two integers using XOR operation*
