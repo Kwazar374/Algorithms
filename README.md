@@ -9,5 +9,5 @@ Author: Bartosz Satola (github.com/kwazar374)
 
 | Algorithm | Group | Status | Language(s) |
 | --- | --- | --- | --- |
-| **Bubble Sort** | Sorting | *Work in Progress* | C++ |
+| **Bubble Sort** | Sorting | *Done* | C++ |
 
